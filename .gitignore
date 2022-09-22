@@ -6,3 +6,4 @@ modules/
 tools/
 zephyr/
 zmk/
+.DS_Store
