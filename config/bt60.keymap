@@ -106,7 +106,7 @@
         layer_raise {
             bindings = <
               &trans
-              &kpF1
+              &kp F1
               &kp F2
               &kp F3 
               &kp F4 
