@@ -173,7 +173,7 @@
               &trans 
               &trans 
               &kp PG_DN 
-              &bl BL_TOG
+              &trans 
           >;
         };
 
